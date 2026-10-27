@@ -1,0 +1,7 @@
+# Generated icon data, one huge line on purpose.
+src/engine/icons.ts
+package-lock.json
+next-env.d.ts
+.next
+node_modules
+public
